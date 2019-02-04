@@ -1,5 +1,5 @@
 # yangster-electron
-[![Build Status](https://travis-ci.com/tudo75/yangster-electron.svg?branch=master)](https://travis-ci.com/tudo75/yangster-electron)
+[![Build Status](https://travis-ci.org/tudo75/yangster-electron.svg?branch=master)](https://travis-ci.org/tudo75/yangster-electron)
 [![Build status](https://ci.appveyor.com/api/projects/status/q30lyld3gydwgp2n/branch/master?svg=true)](https://ci.appveyor.com/project/tudo75/yangster-electron/branch/master)
 
 
