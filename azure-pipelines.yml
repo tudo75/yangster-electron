@@ -26,3 +26,7 @@ steps:
 - script: |
     yarn package -- --publish onTagOrDraft
   displayName: 'yarn package'
+
+- script: |
+    yarn publish onTagOrDraft
+  displayName: 'yarn publish'
