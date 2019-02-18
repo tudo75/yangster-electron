@@ -1,7 +1,7 @@
 # yangster-electron
 [![Build Status](https://travis-ci.org/tudo75/yangster-electron.svg?branch=master)](https://travis-ci.org/tudo75/yangster-electron)
 [![Build status](https://ci.appveyor.com/api/projects/status/q30lyld3gydwgp2n/branch/master?svg=true)](https://ci.appveyor.com/project/tudo75/yangster-electron/branch/master)
-
+[![Build Status](https://dev.azure.com/tudo750416/tudo75/_apis/build/status/tudo75.yangster-electron?branchName=master)](https://dev.azure.com/tudo750416/tudo75/_build/latest?definitionId=1&branchName=master)
 
 Yangster electron application
 
